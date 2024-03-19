@@ -70,8 +70,8 @@ Legenda:
     <td>email (texto)</td>
     <td></td>
     <td></td>
+    <td>complemento () texto</td>
     <td></td>
-    <td>Complemento () texto</td>
     <td></td>
     <td></td>
   </tr>
@@ -79,7 +79,61 @@ Legenda:
     <td>id_perfil (chave estrangeira referenciando a tabela "Perfis")</td>
     <td></td>
     <td></td>
+    <td>bairro (texto)</td>
     <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>cidade (texto)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>estado (texto)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>pais (texto)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>cep (texto)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>telefone (texto)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>email (texto)</td>
     <td></td>
     <td></td>
     <td></td>
