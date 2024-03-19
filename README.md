@@ -58,18 +58,30 @@ Legenda:
     <td>id_produto (FK referenciando a tabela "Produtos)</td>
   </tr>
     <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>email (texto)</td>
+    <td>descricao_perfil (texto)</td>
+    <td>id_endereco (PK referenciando a tabela "Enderecos")</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
     <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>email (texto</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
     <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>id_perfil (chave estrangeira referenciando a tabela "Perfis")</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
