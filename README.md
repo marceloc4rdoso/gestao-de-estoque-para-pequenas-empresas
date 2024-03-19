@@ -64,7 +64,7 @@ Legenda:
     <td class="3_4">numero (texto)</td>
     <td class="3_5">descricao (texto)</td>
     <td class="3_6">id_fornecedor (PK referenciando a tabela fornecedores)</td>
-    <td class="3_7"></td>
+    <td class="3_7">data_movimentacao</td>
   </tr>
     <tr>
     <td class="4_1">email (texto)</td>
@@ -72,7 +72,7 @@ Legenda:
     <td class="4_3"></td>
     <td class="4_4">complemento () texto</td>
     <td class="4_5">preco_unitario (decimal)</td>
-    <td class="4_6"></td>
+    <td class="4_6">quantidade_pedida (inteiro)</td>
     <td class="4_7"></td>
   </tr>
     <tr>
@@ -81,7 +81,7 @@ Legenda:
     <td class="5_3"></td>
     <td class="5_4">bairro (texto)</td>
     <td class="5_5">quantidade_estoque (inteiro)</td>
-    <td class="5_6"></td>
+    <td class="5_6">valor_total (decimal)</td>
     <td class="5_7"></td>
   </tr>
     <tr>
@@ -103,8 +103,8 @@ Legenda:
     <td class="7_7"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td class="8_1"></td>
+    <td class="8_2"></td>
     <td class="8_3"></td>
     <td class="8_4">pais (texto)</td>
     <td class="8_5">marca (texto)</td>
@@ -112,31 +112,31 @@ Legenda:
     <td class="8_7"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>cep (texto)</td>
-    <td>data_validade (data)</td>
-    <td></td>
-    <td></td>
+    <td class="9_1"></td>
+    <td class="9_1"></td>
+    <td class="9_1"></td>
+    <td class="9_1">cep (texto)</td>
+    <td class="9_1">data_validade (data)</td>
+    <td class="9_1"></td>
+    <td class="9_7"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>telefone (texto)</td>
-    <td>lote (texto)</td>
-    <td></td>
-    <td></td>
+    <td class="10_1"></td>
+    <td class="10_2"></td>
+    <td class="10_3"></td>
+    <td class="10_4">telefone (texto)</td>
+    <td class="10_5">lote (texto)</td>
+    <td class="10_6"></td>
+    <td class="10_7"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>email (texto)</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td class="11_1"></td>
+    <td class="11_2"></td>
+    <td class="11_3"></td>
+    <td class="11_4">email (texto)</td>
+    <td class="11_5"></td>
+    <td class="11_6"></td>
+    <td class="11_7"></td>
   </tr>
   <tr>
     <td></td>
