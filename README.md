@@ -31,22 +31,22 @@ Legenda:
 
 <table>
   <tr>
-    <th>1. Usuarios</th>
-    <th>2. Perfis</th>
-    <th>3. Fornecedores</th>
-    <th>4. Enderecos</th>
-    <th>5. Produtos</th>
-    <th>6. Pedidos</th>
-    <th>7. MovimentacaoEstoque</th>
+    <th class="1_1">1. Usuarios</th>
+    <th class="1_2">2. Perfis</th>
+    <th class="1_3">3. Fornecedores</th>
+    <th class="1_4">4. Enderecos</th>
+    <th class="1_5">5. Produtos</th>
+    <th class="1_6">6. Pedidos</th>
+    <th class="1_7">7. MovimentacaoEstoque</th>
   </tr>
   <tr>
-    <td>id_usuario (PK, inteiro)</td>
-    <td>id_perfil (PK, inteiro)</td>
-    <td>id_fornecedor (PK, inteiro)</td>
-    <td>id_endereco (PK, inteiro)</td>
-    <td>id_produto (PK, inteiro)</td>
-    <td>id_pedido (PK, inteiro)</td>
-    <td>id_movimentacao (PK, inteiro)</td>
+    <td class="1_1">id_usuario (PK, inteiro)</td>
+    <td class="1_1">id_perfil (PK, inteiro)</td>
+    <td class="1_1">id_fornecedor (PK, inteiro)</td>
+    <td class="1_1">id_endereco (PK, inteiro)</td>
+    <td class="1_1">id_produto (PK, inteiro)</td>
+    <td class="1_1">id_pedido (PK, inteiro)</td>
+    <td class="1_1">id_movimentacao (PK, inteiro)</td>
   </tr>
   <tr>
     <td>nome_usuario (texto)</td>
