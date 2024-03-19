@@ -73,7 +73,7 @@ Legenda:
     <td class="4_4">complemento () texto</td>
     <td class="4_5">preco_unitario (decimal)</td>
     <td class="4_6">quantidade_pedida (inteiro)</td>
-    <td class="4_7"></td>
+    <td class="4_7">tipo_movimentacao (texto, 'entrada' / 'saida')</td>
   </tr>
     <tr>
     <td class="5_1">id_perfil (chave estrangeira referenciando a tabela "Perfis")</td>
@@ -82,7 +82,7 @@ Legenda:
     <td class="5_4">bairro (texto)</td>
     <td class="5_5">quantidade_estoque (inteiro)</td>
     <td class="5_6">valor_total (decimal)</td>
-    <td class="5_7"></td>
+    <td class="5_7">quantidade (inteiro)</td>
   </tr>
     <tr>
     <td class="6_1"></td>
@@ -91,7 +91,7 @@ Legenda:
     <td class="6_4">cidade (texto)</td>
     <td class="6_5">id_fornecedor (FK referenciando a tabela Fornecedores)</td>
     <td class="6_6"></td>
-    <td class="6_7"></td>
+    <td class="6_7">id_usuario (KF  referenciando a tabela "Usuários")</td>
   </tr>
   <tr>
     <td class="7_1"></td>
@@ -137,68 +137,5 @@ Legenda:
     <td class="11_5"></td>
     <td class="11_6"></td>
     <td class="11_7"></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="7_1"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
