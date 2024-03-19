@@ -67,8 +67,8 @@ Legenda:
     <td></td>
   </tr>
     <tr>
-    <td>email (texto</td>
-    <td></td>
+    <td>email (texto)</td>
+    <td>Complemento () texto</td>
     <td></td>
     <td></td>
     <td></td>
