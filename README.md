@@ -50,8 +50,12 @@ Legenda:
   </tr>
   <tr>
     <td>nome_usuario (texto)</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>nome_perfil (texto)</td>
+    <td>nome_fornecedor (texto)</td>
+    <td>logradouro (texto)</td>
+    <td>nome_produto (texto)</td>
+    <td>data_pedido (data)</td>
+    <td>id_produto (FK referenciando a tabela "Produtos)</td>
   </tr>
     <tr>
     <td>Centro comercial Moctezuma</td>
