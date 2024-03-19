@@ -61,7 +61,7 @@ Legenda:
     <td>email (texto)</td>
     <td>descricao_perfil (texto)</td>
     <td>id_endereco (PK referenciando a tabela "Enderecos")</td>
-    <td></td>
+    <td>numero (texto)</td>
     <td></td>
     <td></td>
     <td></td>
