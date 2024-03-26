@@ -113,6 +113,5 @@ Este sistema fornece uma interface de linha de comando para gerenciar produtos, 
 
 ### Para qualquer dúvida ou suporte técnico, entre em contato através de:
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="30" heidth="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" heidth="30"/>
+> [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="30" heidth="30"/>](#) ** [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" heidth="30"/>]([https://www.sqlite.org](https://br.linkedin.com/in/marcelo-cardoso-de-oliveira))
                 
