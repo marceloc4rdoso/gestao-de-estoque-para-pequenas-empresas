@@ -39,6 +39,10 @@ fornecedores, tornando mais fácil o contato e a gestão das compras.
 - Sistema de gerenciamento de banco de dados SQLite.
 - IDE recomendada: IntelliJ IDEA (ou outra IDE de sua preferência, como Visual Studio Code, etc.).
 
+> Configurações:
+Clone o repositório!
+- git-clone https://github.com/marceloc4rdoso/gestao-de-estoque-para-pequenas-empresas.git
+
 > Uso
 
 Este sistema fornece uma interface de linha de comando para gerenciar produtos, categorias, movimentações de estoque e fornecedores. A seguir, você encontrará exemplos detalhados de como utilizar cada funcionalidade.
@@ -102,9 +106,7 @@ Este sistema fornece uma interface de linha de comando para gerenciar produtos, 
 4. As informações atuais do fornecedor serão exibidas.
 5. Siga as instruções fornecidas pelo sistema para atualizar os campos desejados.
 
-
 ### Para qualquer dúvida ou suporte técnico, entre em contato através de:
-
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="30" heidth="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" heidth="30"/>
