@@ -40,8 +40,12 @@ fornecedores, tornando mais fácil o contato e a gestão das compras.
 - IDE recomendada: IntelliJ IDEA (ou outra IDE de sua preferência, como Visual Studio Code, etc.).
 
 > Configurações:
+
 Clone o repositório!
+
 - git-clone https://github.com/marceloc4rdoso/gestao-de-estoque-para-pequenas-empresas.git
+
+
 
 > Uso
 
