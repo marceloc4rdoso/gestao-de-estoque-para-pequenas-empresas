@@ -1,3 +1,4 @@
+![banner](https://github.com/marceloc4rdoso/gestao-de-estoque-para-pequenas-empresas/blob/main/estoque.jpg?raw=true)
 # Gestão de Estoque  para Pequenas Empresas - Senai - 03/2024
 Este sistema foi criado para facilitar a gestão de estoque em pequenas empresas. Ele
 centraliza informações sobre produtos, categorias, movimentações de estoque e
